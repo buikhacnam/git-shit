@@ -2,6 +2,7 @@ import React from 'react';
 import ShitOne from './components/ShitOne';
 import ShitTwo from './components/ShitTwo';
 import ShitThree from './components/ShitThree';
+import ShitFour from './components/ShitFour';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <ShitOne />
       <ShitTwo />
       <ShitThree />
+      <ShitFour />
     </div>
   );
 }
