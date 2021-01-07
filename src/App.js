@@ -5,6 +5,7 @@ import ShitThree from './components/ShitThree';
 import ShitFour from './components/ShitFour';
 import ShitFive from './components/ShitFive';
 import ShitSix from './components/ShitSix';
+import ShitSeven from './components/ShitSeven';
 
 
 
@@ -18,6 +19,7 @@ function App() {
       <ShitFour />
       <ShitFive />
       <ShitSix />
+      <ShitSeven />
     </div>
   );
 }
