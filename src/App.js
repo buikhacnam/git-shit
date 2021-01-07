@@ -3,6 +3,7 @@ import ShitOne from './components/ShitOne';
 import ShitTwo from './components/ShitTwo';
 import ShitThree from './components/ShitThree';
 import ShitFour from './components/ShitFour';
+import ShitFive from './components/ShitFive';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <ShitTwo />
       <ShitThree />
       <ShitFour />
+      <ShitFive />
     </div>
   );
 }
