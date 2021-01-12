@@ -9,6 +9,7 @@ import ShitSeven from './components/ShitSeven';
 import ShitEight from './components/ShitEight';
 import ShitNine from './components/ShitNine';
 import ShitTen from './components/ShitTen';
+import ShitEleven from './components/ShitEleven';
 
 
 
@@ -26,6 +27,7 @@ function App() {
       <ShitEight />
       <ShitNine />
       <ShitTen />
+      <ShitEleven />
     </div>
   );
 }
