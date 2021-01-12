@@ -3,7 +3,7 @@ import React from 'react'
 export default function ShitTen() {
     return (
         <div>
-            shit Ten
+            shit 10
         </div>
     )
 }
